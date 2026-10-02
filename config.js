@@ -25,7 +25,7 @@ window.PORTFOLIO_CONFIG = {
     whatsappLabel: "+55 (31) 98474-6166",
   },
   form: {
-    access_key: "", // Cole aqui a Access Key do Web3Forms para ativar o envio.
+    access_key: "88cb50a3-c93e-44ae-bff6-c61772fbf399", // Cole aqui a Access Key do Web3Forms para ativar o envio.
     endpoint: "https://api.web3forms.com/submit",
     subject: "Nova mensagem pelo portfólio de Guilherme Luiz",
     send: null,
