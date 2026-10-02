@@ -18,7 +18,7 @@ window.PORTFOLIO_CONFIG = {
   },
   favicon: "favicon-gl.png",
   links: {
-    github: "",
+    github: "https://github.com/12501840-galo",
     linkedin: "",
     email: "guilhermeedmundo55@gmail.com",
     whatsapp: "5531984746166",
